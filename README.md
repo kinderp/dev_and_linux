@@ -139,3 +139,17 @@ GNU/Linux
   * p (e.g. 1p) Posix Standard Specifications
   * x (e.g. 3x) X Window System
 
+# Info Commands
+
+Key | Function
+------------ | -------------
+n | Go to next node
+p | Go to previous node
+u | Go tu upper node
+l | Go to last visited node
+space or PageDown | Go to next page
+delete or backspace or PageUp | Go to previous page
+/ or CTRL+s | Search for the string prompted for
+i | Search for a node containing the stirng prompted for
+
+The info systems is a hierarchical tree of nodes, each of nodes may have multiple pages.
