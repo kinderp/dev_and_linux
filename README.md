@@ -35,3 +35,78 @@
 # [Open Source Guides For The Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/)
 Leverage best practices for running an open source program office or starting an open source project in your organization. Developed by The Linux Foundation in partnership with the TODO Group, these resources represent the experience of our staff, projects, and members.
 
+# System Info
+
+* [uname](https://linux.die.net/man/1/uname)
+```bash
+>uname --help
+Usage: uname [OPTION]...
+Print certain system information.  With no OPTION, same as -s.
+
+  -a, --all                print all information, in the following order,
+                             except omit -p and -i if unknown:
+  -s, --kernel-name        print the kernel name
+  -n, --nodename           print the network node hostname
+  -r, --kernel-release     print the kernel release
+  -v, --kernel-version     print the kernel version
+  -m, --machine            print the machine hardware name
+  -p, --processor          print the processor type (non-portable)
+  -i, --hardware-platform  print the hardware platform (non-portable)
+  -o, --operating-system   print the operating system
+      --help     display this help and exit
+      --version  output version information and exit
+
+GNU coreutils online help: <https://www.gnu.org/software/coreutils/>
+Full documentation at: <https://www.gnu.org/software/coreutils/uname>
+or available locally via: info '(coreutils) uname invocation'
+
+```
+
+```bash
+>uname -a
+Linux linux-pnjx 4.12.14-lp150.12.7-default #1 SMP Tue Jul 17 12:08:37 UTC 2018 (4804d19) x86_64 x86_64 x86_64 GNU/Linux
+antonio@linux-pnjx:~/lfd201> 
+```
+
+```bash
+>uname -s
+Linux
+```
+
+```bash
+>name -n
+linux-pnjx
+```
+
+```bash
+>uname -r
+4.12.14-lp150.12.7-default
+```
+
+```bash
+>uname -v
+#1 SMP Tue Jul 17 12:08:37 UTC 2018 (4804d19)
+```
+
+```bash
+>uname -m
+x86_64
+```
+
+```bash
+uname -p
+x86_64
+```
+
+```bash
+>uname -i
+x86_64
+```
+ 
+```bash
+>uname -o
+GNU/Linux
+```
+ 
+
+
