@@ -1,4 +1,4 @@
-# open_source_dev_git_and_linux
+# dev_and_linux
 
 # Cheatsheet
 
