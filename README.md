@@ -31,3 +31,7 @@
   * [the core infrastructure initiative](https://www.coreinfrastructure.org/)
 * Blockchain 
   * [hyperledger](https://www.hyperledger.org/)
+
+# [Open Source Guides For The Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/)
+Leverage best practices for running an open source program office or starting an open source project in your organization. Developed by The Linux Foundation in partnership with the TODO Group, these resources represent the experience of our staff, projects, and members.
+
