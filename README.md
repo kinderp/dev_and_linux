@@ -118,3 +118,7 @@ GNU/Linux
 * [bamboo](https://www.atlassian.com/software/bamboo)
 * [codeship](https://codeship.com/)
 * [circleci](https://circleci.com/)
+
+# Standard
+
+* [Linux Standard Base LSB](https://wiki.linuxfoundation.org/lsb/start)
