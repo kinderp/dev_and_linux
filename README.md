@@ -122,3 +122,20 @@ GNU/Linux
 # Standard
 
 * [Linux Standard Base LSB](https://wiki.linuxfoundation.org/lsb/start)
+
+# Man Pages
+
+* 1 User Commands (standard commands)
+* 2 System Calls
+* 3 Subroutines (Library Functions)
+* 4 Devices
+* 5 File Formarts and files used by a program
+* 6 Games
+* 7 Miscellaneous
+* 8 System Administration
+* 9 Kernel Documentation
+* n New (mainly uded by Tcl/Tk)
+* suffix
+  * p (e.g. 1p) Posix Standard Specifications
+  * x (e.g. 3x) X Window System
+
