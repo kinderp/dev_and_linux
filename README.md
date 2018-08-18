@@ -109,3 +109,12 @@ GNU/Linux
  
 
 
+# [CI tools](https://stackify.com/top-continuous-integration-tools/?utm_referrer=https://lms.quickstart.com/custom/862395/page12873.html)
+* [Jenkins](https://jenkins.io/)
+* [travis-ci](https://travis-ci.org/)
+* [teamcity](https://www.jetbrains.com/teamcity/)
+* [gocd](https://www.gocd.org/)
+* [gitlab](https://about.gitlab.com/features/gitlab-ci-cd/)
+* [bamboo](https://www.atlassian.com/software/bamboo)
+* [codeship](https://codeship.com/)
+* [circleci](https://circleci.com/)
