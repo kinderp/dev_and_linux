@@ -65,7 +65,6 @@ or available locally via: info '(coreutils) uname invocation'
 ```bash
 >uname -a
 Linux linux-pnjx 4.12.14-lp150.12.7-default #1 SMP Tue Jul 17 12:08:37 UTC 2018 (4804d19) x86_64 x86_64 x86_64 GNU/Linux
-antonio@linux-pnjx:~/lfd201> 
 ```
 
 ```bash
